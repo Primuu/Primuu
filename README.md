@@ -45,6 +45,12 @@
 
 <div align="center">
   <p>
-    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=primuu&show_icons=true&locale=en" alt="primuu" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=primuu&show_icons=true&locale=en" alt="primuu" />
+  </p>
+  <p>
+    &nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=primuu&" alt="primuu" />
+  </p>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=primuu&label=Profile%20views&color=0e75b6&style=flat" alt="primuu" />
   </p>
 </div>
