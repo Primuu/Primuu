@@ -1,7 +1,7 @@
 <h1 align="center">Well hello there 👋 I'm Adam - Primuu</h1>
 <h3 align="center">Actually am just a student, but am learning things 🤓</h3>
 
-- 🌱 I’m currently learning **Spring + Angular**
+- 🌱 I’m currently learning **Spring** and also going to learn **Angular**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
