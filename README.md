@@ -1,7 +1,8 @@
 <h1 align="center">Well hello there 👋 I'm Adam - Primuu</h1>
 <h3 align="center">Actually am just a student, but am learning things 🤓</h3>
 
-- 🌱 I’m currently learning **Spring** and **React**
+- Full-stack Developer (**Spring** and **React**)
+- AI Enthusiast
 
 <h3 align="left">Technologies:</h3>
 <p align="left">
