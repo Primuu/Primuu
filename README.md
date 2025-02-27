@@ -2,7 +2,7 @@
 <h3 align="center">Actually am just a student, but am learning things 🤓</h3>
 
 - Full-stack Developer (**Spring** and **React**)
-- AI Enthusiast
+- Data Science
 
 <h3 align="left">Technologies:</h3>
 <p align="left">
